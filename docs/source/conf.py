@@ -48,7 +48,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'vcheck-docs'
+project = u'vCheck Docs'
 copyright = u'2016, Kevin Kirkpatrick'
 author = u'Kevin Kirkpatrick'
 
@@ -233,7 +233,7 @@ html_static_path = ['nstatic']
 # html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'vcheck-docsdoc'
+htmlhelp_basename = 'vcheck-docs'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -259,7 +259,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'vcheck-docs.tex', u'vcheck-docs Documentation',
+    (master_doc, 'vCheck Docs.tex', u'vCheck Documentation',
      u'Kevin Kirkpatrick', 'manual'),
 ]
 
@@ -301,7 +301,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'vcheck-docs', u'vcheck-docs Documentation',
+    (master_doc, 'vCheck Docs', u'vCheck Documentation',
      [author], 1)
 ]
 
@@ -316,8 +316,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'vcheck-docs', u'vcheck-docs Documentation',
-     author, 'vcheck-docs', 'One line description of project.',
+    (master_doc, 'vCheck Docs', u'vCheck Documentation',
+     author, 'vCheck Docs', 'One line description of project.',
      'Miscellaneous'),
 ]
 
