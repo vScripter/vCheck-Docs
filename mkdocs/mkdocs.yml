@@ -1,2 +1,5 @@
 site_name: vCheck Report Documentation
+pages:
+- Home: index.md
+- Contributing: contributing.md
 theme: readthedocs
